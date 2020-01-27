@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="mohmor.gephi.Efficency">
+    <module_version install_time="1579793583732" last="true" origin="installer" specification_version="1.0">
+        <file crc="3993587968" name="config/Modules/mohmor-gephi-Efficency.xml"/>
+        <file crc="3658278702" name="modules/mohmor-gephi-Efficency.jar"/>
+    </module_version>
+</module>

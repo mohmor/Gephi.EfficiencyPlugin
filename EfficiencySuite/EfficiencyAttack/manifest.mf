@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: mohmor.gephi.EfficiencyAttack
+OpenIDE-Module-Localizing-Bundle: mohmor/gephi/EfficiencyAttack/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
